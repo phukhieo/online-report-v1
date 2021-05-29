@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ef72d22a1c6e47083cdd",
+    "revision": "ed962db96f2e35b4b136",
     "url": "/online-report-v1/static/css/main.a4650ce9.chunk.css"
   },
   {
-    "revision": "ef72d22a1c6e47083cdd",
-    "url": "/online-report-v1/static/js/main.ef72d22a.chunk.js"
+    "revision": "ed962db96f2e35b4b136",
+    "url": "/online-report-v1/static/js/main.ed962db9.chunk.js"
   },
   {
     "revision": "e5d51e65f751cc39bef4",
@@ -48,12 +48,16 @@ self.__precacheManifest = [
     "url": "/online-report-v1/static/media/6.47789d67.jpeg"
   },
   {
+    "revision": "2d36b1a925432bae7f3c53a340868c6e",
+    "url": "/online-report-v1/static/media/Lato-Regular.2d36b1a9.ttf"
+  },
+  {
     "revision": "a82c4c3bfe6cd8a9d57597071772d0c7",
     "url": "/online-report-v1/static/media/Kanit-Regular.a82c4c3b.ttf"
   },
   {
-    "revision": "2d36b1a925432bae7f3c53a340868c6e",
-    "url": "/online-report-v1/static/media/Lato-Regular.2d36b1a9.ttf"
+    "revision": "49d082d0164cdf471f5e00b1fddb89f9",
+    "url": "/online-report-v1/static/media/Sarabun-Regular.49d082d0.ttf"
   },
   {
     "revision": "9bec958d1bdbaf4f03bdf23557b4122f",
@@ -64,10 +68,6 @@ self.__precacheManifest = [
     "url": "/online-report-v1/static/media/ChakraPetch-Regular.f69fdd68.ttf"
   },
   {
-    "revision": "49d082d0164cdf471f5e00b1fddb89f9",
-    "url": "/online-report-v1/static/media/Sarabun-Regular.49d082d0.ttf"
-  },
-  {
     "revision": "16b4ce72cf30da14d83d5e3981d3113c",
     "url": "/online-report-v1/static/media/Prompt-Regular.16b4ce72.ttf"
   },
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/online-report-v1/static/media/background.81b5837e.png"
   },
   {
-    "revision": "f678915a6d30cc90272f0f495584d8c2",
+    "revision": "779abd117a10e3c4d9a2b61606006e3f",
     "url": "/online-report-v1/index.html"
   }
 ];
