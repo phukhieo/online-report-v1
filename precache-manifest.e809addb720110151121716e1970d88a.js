@@ -92,8 +92,8 @@ self.__precacheManifest = [
     "url": "/online-report-v1/static/media/Lato-Regular.2d36b1a9.ttf"
   },
   {
-    "revision": "9bec958d1bdbaf4f03bdf23557b4122f",
-    "url": "/online-report-v1/static/media/K2D-Regular.9bec958d.ttf"
+    "revision": "f69fdd6858deaa1e307594ad974d3979",
+    "url": "/online-report-v1/static/media/ChakraPetch-Regular.f69fdd68.ttf"
   },
   {
     "revision": "a82c4c3bfe6cd8a9d57597071772d0c7",
@@ -104,8 +104,8 @@ self.__precacheManifest = [
     "url": "/online-report-v1/static/media/Prompt-Regular.16b4ce72.ttf"
   },
   {
-    "revision": "f69fdd6858deaa1e307594ad974d3979",
-    "url": "/online-report-v1/static/media/ChakraPetch-Regular.f69fdd68.ttf"
+    "revision": "9bec958d1bdbaf4f03bdf23557b4122f",
+    "url": "/online-report-v1/static/media/K2D-Regular.9bec958d.ttf"
   },
   {
     "revision": "49d082d0164cdf471f5e00b1fddb89f9",
@@ -116,7 +116,7 @@ self.__precacheManifest = [
     "url": "/online-report-v1/static/media/background.81b5837e.png"
   },
   {
-    "revision": "4db31a9ac0d144a1fc05439b765c02fb",
+    "revision": "eb5f97bea8b4e455145a21d6c6b38c5f",
     "url": "/online-report-v1/index.html"
   }
 ];
