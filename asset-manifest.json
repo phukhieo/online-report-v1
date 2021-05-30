@@ -1,7 +1,7 @@
 {
   "main.css": "/online-report-v1/static/css/main.115aea39.chunk.css",
-  "main.js": "/online-report-v1/static/js/main.b31820de.chunk.js",
-  "main.js.map": "/online-report-v1/static/js/main.b31820de.chunk.js.map",
+  "main.js": "/online-report-v1/static/js/main.89dfa55e.chunk.js",
+  "main.js.map": "/online-report-v1/static/js/main.89dfa55e.chunk.js.map",
   "static/css/1.f35294fb.chunk.css": "/online-report-v1/static/css/1.f35294fb.chunk.css",
   "static/js/1.1e2d5f01.chunk.js": "/online-report-v1/static/js/1.1e2d5f01.chunk.js",
   "static/js/1.1e2d5f01.chunk.js.map": "/online-report-v1/static/js/1.1e2d5f01.chunk.js.map",
@@ -15,11 +15,11 @@
   "static/media/pk.png": "/online-report-v1/static/media/pk.c94e43e3.png",
   "static/media/5.jpeg": "/online-report-v1/static/media/5.6e846951.jpeg",
   "static/media/6.jpeg": "/online-report-v1/static/media/6.47789d67.jpeg",
-  "static/media/index.css": "/online-report-v1/static/media/ChakraPetch-Regular.f69fdd68.ttf",
+  "static/media/index.css": "/online-report-v1/static/media/Prompt-Regular.16b4ce72.ttf",
   "static/media/background.png": "/online-report-v1/static/media/background.81b5837e.png",
   "static/css/main.115aea39.chunk.css.map": "/online-report-v1/static/css/main.115aea39.chunk.css.map",
   "static/css/1.f35294fb.chunk.css.map": "/online-report-v1/static/css/1.f35294fb.chunk.css.map",
   "index.html": "/online-report-v1/index.html",
-  "precache-manifest.0339fab68d00dcda162bcb2ed1faca3f.js": "/online-report-v1/precache-manifest.0339fab68d00dcda162bcb2ed1faca3f.js",
+  "precache-manifest.fb56e9674928fda900b4342599048b81.js": "/online-report-v1/precache-manifest.fb56e9674928fda900b4342599048b81.js",
   "service-worker.js": "/online-report-v1/service-worker.js"
 }
